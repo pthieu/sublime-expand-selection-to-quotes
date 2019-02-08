@@ -1,3 +1,7 @@
-Expands selections to the closest containing pairs of single or double quotes.
+Expands selections to the closest containing pairs of single, double quotes, or backticks.
+
+Supports: ', ", `
+
+` is mainly for JavaScript users
 
 The default keybinding is Ctrl+'.
